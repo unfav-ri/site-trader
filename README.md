@@ -1,4 +1,4 @@
-# Projeto: Pedido Namoro
+# Projeto: Site Trader
 
 Uma landing page criada para simular a página inicial de um trader.
 
